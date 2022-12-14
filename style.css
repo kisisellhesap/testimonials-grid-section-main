@@ -91,7 +91,7 @@ main {
     color: hsla(0, 0%, 100%, .5);
 }
 
-.profile-container h2 {
+.profile-container h1 {
     color: var(--White);
     font-weight: 600;
     font-size: 1.2rem;
@@ -128,9 +128,9 @@ main {
     background-color: var(--White);
 }
 
-.kira h2,
+.kira h1,
 .kira p,
-.jeanette h2,
+.jeanette h1,
 .jeanette p {
     color: var(--Very-dark-grayish-blue) !important;
 }
